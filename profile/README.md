@@ -10,7 +10,7 @@ Current electronics platform:
   - Raspberry Pi Pico
 - Communication setup:
   - ESP8266
-  - Adafruit RF95W 986MHz LoRa module
+  - Adafruit RF95W 868MHz LoRa module
 
 - Sensor suite:
   - MPU6050 Gyro and Accelerometer
